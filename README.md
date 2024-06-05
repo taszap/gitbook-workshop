@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/MJ_Letters.gif
+coverY: 0
+---
+
 # Quick Start Guide
 
 Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
@@ -8,9 +13,9 @@ You can use our Midjourney Bot on our official Discord server ([https://discord.
 
 ## Code of Conduct
 
-- Don't be a jerk.
-- Don't use our tools to make images that could inflame, upset, or cause drama. That includes gore and adult content.
-- Be respectful to other people and the team.
+* Don't be a jerk.
+* Don't use our tools to make images that could inflame, upset, or cause drama. That includes gore and adult content.
+* Be respectful to other people and the team.
 
 Make sure you are familiar with the [Full Content Guidelines](content-and-moderation-policy.md). By using our Bot, no matter where you do so, you agree to these Guidelines as well as to our [Terms of Service](terms-of-service.md).
 
@@ -44,7 +49,7 @@ To use the Midjourney Bot, use a [Discord Slash Command](https://support.discord
 
 Make sure to respect our [Content and Moderation policy](content-and-moderation-policy.md): keep it PG-13 and avoid upsetting imagery. This is still required no matter where you are using the Bot.
 
-![Clicking on the /imagine option that pops up will activate the Slash Command and create the prompt field for you to type in](.gitbook/assets/imagine_command_popup_click.gif)
+![Clicking on the /imagine option that pops up will activate the Slash Command and create the prompt field for you to type in](.gitbook/assets/imagine\_command\_popup\_click.gif)
 
 You can also try to press the Spacebar, Tab, or Enter to create the `prompt` field. Bot slash commands will only work in Bot channels. Typing `/imagine` will not work in regular channels, such as `#trial-support`.
 
@@ -60,18 +65,18 @@ Requests take a minute to generate four options based on your prompt.
 
 After a 2x2 grid of images has finished generating, two rows of buttons will appear:
 
-- In the top row: `U1`, `U2`, `U3`, and `U4` are buttons for **Upscaling** your chosen image. Upscaling an image generates a larger roughly 1024x1024 pixel version of the selected image. By default, this will also generate additional details.
-- In the bottom row: `V1`, `V2`, `V3`, and `V4` are buttons for creating **Variations** of your chosen image. Creating variations will generate four new images, similar in overall style and composition to the image you selected.
+* In the top row: `U1`, `U2`, `U3`, and `U4` are buttons for **Upscaling** your chosen image. Upscaling an image generates a larger roughly 1024x1024 pixel version of the selected image. By default, this will also generate additional details.
+* In the bottom row: `V1`, `V2`, `V3`, and `V4` are buttons for creating **Variations** of your chosen image. Creating variations will generate four new images, similar in overall style and composition to the image you selected.
 
 ![The order used by the numbered buttons (U,V) to select an image](.gitbook/assets/167755032-fe6935a9-b6a2-4b80-8f73-13916c170ceb.png)
 
 After you use a `U` button to upscale, you will have a few more options:
 
-![Here we used the U4 button, upscaling the bottom right image](.gitbook/assets/upscale_buttons.png)
+![Here we used the U4 button, upscaling the bottom right image](.gitbook/assets/upscale\_buttons.png)
 
-- `Make Variations` does the same as the `V` buttons, generating new alternatives in a grid.
-- `Upscale to Max` upscales the image to an even larger resolution of roughly 1664x1664.
-- `Light Upscale Redo` upscales again, starting over, without adding as much detail.
+* `Make Variations` does the same as the `V` buttons, generating new alternatives in a grid.
+* `Upscale to Max` upscales the image to an even larger resolution of roughly 1664x1664.
+* `Light Upscale Redo` upscales again, starting over, without adding as much detail.
 
 {% hint style="info" %}
 Using these buttons will also use some of your 25 free jobs. To check how many uses you have left, use the `/info` command in the same way you used `/imagine`.
@@ -81,7 +86,7 @@ Using these buttons will also use some of your 25 free jobs. To check how many u
 
 ![Our upscaled image, downloaded to our device](https://user-images.githubusercontent.com/105028755/167755159-875d58d0-12b0-4e8f-ac84-1cea75590fd8.png)
 
-You can click on the image to open it to full size, and then right-click and choose `Save image` to save it to your local computer. If you're on mobile, you can tap the image and then tap the download icon (:inbox_tray:) in the top right corner.
+You can click on the image to open it to full size, and then right-click and choose `Save image` to save it to your local computer. If you're on mobile, you can tap the image and then tap the download icon (:inbox\_tray:) in the top right corner.
 
 Your upscaled image (and 2x2 grid images) will immediately be visible on your website gallery at [midjourney.com/app](https://www.midjourney.com/app/) (you need to `Sign In with Discord` first.
 
@@ -95,7 +100,7 @@ You can ask the Midjourney Bot to send you a Discord direct message containing y
 
 Your 25 free jobs do not presently expire but will also not renew. Once you have used all of them, you can use `/subscribe` in any Bot channel to purchase a membership. Follow the link Midjourney generates to go to your subscription page.
 
-For prices and more information, you can visit [Billing and Licensing](broken-reference).
+For prices and more information, you can visit [Billing and Licensing](broken-reference/).
 
 ### 8. As a Subscriber, Direct Message the Bot to work one-on-one with the Bot.
 
@@ -105,12 +110,12 @@ If you are a paid subscriber, you can use [the bot in your Direct Messages](FAQs
 
 If you still have questions, these pages can also be helpful:
 
-- [The User Manual](user-manual.md), for a full list of Midjourney features and commands.
-- [Resource Links](resource-links/), for tips, tricks, and experiments by our community of creatives.
+* [The User Manual](user-manual.md), for a full list of Midjourney features and commands.
+* [Resource Links](resource-links/), for tips, tricks, and experiments by our community of creatives.
 
 Don't forget about our official Discord server:
 
-- If you have not already joined, you can do so here: [https://discord.gg/midjourney](https://discord.gg/midjourney).
-- The `#rules` and `#faq` channels contain more information about our services.
-- In `#announcements` and `#status` you will find all important updates and news.
-- Have additional questions? Visit `#trial-support` or `#member-support`.
+* If you have not already joined, you can do so here: [https://discord.gg/midjourney](https://discord.gg/midjourney).
+* The `#rules` and `#faq` channels contain more information about our services.
+* In `#announcements` and `#status` you will find all important updates and news.
+* Have additional questions? Visit `#trial-support` or `#member-support`.
