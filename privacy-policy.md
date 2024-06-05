@@ -287,7 +287,7 @@ You have the right to request that Midjourney disclose certain information to yo
 
 ### **Deletion Request Rights**
 
-You have the right to request that madjourney delete any of your Personal Information that we collected from you and/or retained. Unless subject to a certain limited exception, once Midjourney receives and confirms your verifiable data deletion request, we will delete (and direct our service providers to delete) your personal information from our records. Midjourney will notify you promptly if it determines it must deny your deletion request.
+You have the right to request that midjourney delete any of your Personal Information that we collected from you and/or retained. Unless subject to a certain limited exception, once Midjourney receives and confirms your verifiable data deletion request, we will delete (and direct our service providers to delete) your personal information from our records. Midjourney will notify you promptly if it determines it must deny your deletion request.
 
 ### **Do Not Sell Opt-Out Rights**
 
@@ -301,7 +301,7 @@ You may only make a verifiable consumer request for access or data portability u
 
 ### **Response Timing and Format**
 
-We endeavor to respond to a verifiable consumer request within 45 days of its receipt. If we require more time (up to 90 days), we will inform you in writing of the extension period and the reason for it. madjourney will deliver any required or requested responses or other communications in writing to you by email. Any disclosures we provide will only cover the 12-month period preceding the verifiable consumer request’s receipt. If applicable, the response we provide will also explain any reasons we cannot comply with a request. For data portability requests, Midjourney will provide your personal information in a format that is readily usable and transferable. Midjourney does not charge a fee to process or respond to your verifiable consumer request unless such requests become excessive, repetitive, or manifestly unfounded or as otherwise permitted by the CCPA. If we determine that a request warrants charging a fee, we will notify you and provide you with a cost estimate before completing your request.
+We endeavor to respond to a verifiable consumer request within 45 days of its receipt. If we require more time (up to 90 days), we will inform you in writing of the extension period and the reason for it. midjourney will deliver any required or requested responses or other communications in writing to you by email. Any disclosures we provide will only cover the 12-month period preceding the verifiable consumer request’s receipt. If applicable, the response we provide will also explain any reasons we cannot comply with a request. For data portability requests, Midjourney will provide your personal information in a format that is readily usable and transferable. Midjourney does not charge a fee to process or respond to your verifiable consumer request unless such requests become excessive, repetitive, or manifestly unfounded or as otherwise permitted by the CCPA. If we determine that a request warrants charging a fee, we will notify you and provide you with a cost estimate before completing your request.
 
 # 7. Contact Us
 

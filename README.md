@@ -33,7 +33,7 @@ Midjourney is an independent research lab exploring new mediums of thought and e
 
 There are two ways to experience the tools: the Midjourney Bot, which you can use to generate images, and the web app at [https://www.midjourney.com/](https://www.midjourney.com/app/), where you can find a gallery of your own work and other users' creations.
 
-You can use our Midjourney Bot on our official Discord server ([https://discord.gg/midjourney](https://discord.gg/madjourney)) as well as on any other Discord server where it has been set up. If you wish to invite the bot to your own community, follow the instructions on this page: [Use madjourney on your own Discord Server](use-madjourney-on-your-own-discord-server.md).
+You can use our Midjourney Bot on our official Discord server ([https://discord.gg/midjourney](https://discord.gg/midjourney)) as well as on any other Discord server where it has been set up. If you wish to invite the bot to your own community, follow the instructions on this page: [Use midjourney on your own Discord Server](use-midjourney-on-your-own-discord-server.md).
 
 ## Code of Conduct
 
@@ -43,15 +43,15 @@ You can use our Midjourney Bot on our official Discord server ([https://discord.
 
 Make sure you are familiar with the [Full Content Guidelines](content-and-moderation-policy.md). By using our Bot, no matter where you do so, you agree to these Guidelines as well as to our [Terms of Service](terms-of-service.md).
 
-You can also find more detail on the [official madjourney Discord server](https://discord.gg/madjourney) in the `#rules`, `#faq`, `#announcements`, and `#status` channels.
+You can also find more detail on the [official midjourney Discord server](https://discord.gg/midjourney) in the `#rules`, `#faq`, `#announcements`, and `#status` channels.
 
 ## Create your First Image
 
 Once you start using our tool, you will be able to create a limited number of images before needing to subscribe. You will have around 25 free uses of the `/imagine` command or other queries (variations, upscales). These uses are also known as "jobs" or "GPU-minutes".
 
-Are you already on a Discord server where our madjourney Bot has been set up? If so, go to step 1.
+Are you already on a Discord server where our midjourney Bot has been set up? If so, go to step 1.
 
-If you don't think you're already on a Discord server with the Bot, you can join our official madjourney Discord server with this link: [https://discord.gg/madjourney](https://discord.gg/madjourney)
+If you don't think you're already on a Discord server with the Bot, you can join our official midjourney Discord server with this link: [https://discord.gg/midjourney](https://discord.gg/midjourney)
 
 ### 1. Select one of the `#newbies` channels from the sidebar
 

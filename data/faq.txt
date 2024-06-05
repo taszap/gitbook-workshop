@@ -21,7 +21,7 @@
 # ---------- Basic Markdown ----------
 # `code block`
 # **bold**
-# [Link Text](https://madjourney.gitbook.io/docs/)
+# [Link Text](https://midjourney.gitbook.io/docs/)
 # :emoji:      ex: :envelope:
 # <@userIDnumber>
 
@@ -39,7 +39,7 @@ Q: What do the U1, V1, etc. buttons do? U, V buttons? How do I upscale? How do I
 
 %image=https://cdn.discordapp.com/attachments/958191534208061450/1017592980053438494/1234.png
 
-**U** UPSCALE: Increases the size of the selected image, giving it a higher resolution of around 1024×1024. See [the documentation](https://madjourney.gitbook.io/docs/faqs#upscaling).
+**U** UPSCALE: Increases the size of the selected image, giving it a higher resolution of around 1024×1024. See [the documentation](https://midjourney.gitbook.io/docs/faqs#upscaling).
 
 **V** VARIATION: Creates 4 variations of the selected image, trying to maintain style and composition.
 
@@ -68,11 +68,11 @@ Go to a **#newbies** channel to create images with `/imagine`.
 
 ---
 
-Q: how do I use /imagine? How do I use /imagine? How do I generate images? How to use it? How do I use the bot? How does the bot work? How do I use it? How do I make art? How do I use madjourney? How do I prompt? How can I ask the AI to create an image? How do I trial the program? How do I get started? How can I start using the madjourney as a free user? Can I try it? Where can I start? How do I use the AI? Can I have free trial? Register? How do I use this?
+Q: how do I use /imagine? How do I use /imagine? How do I generate images? How to use it? How do I use the bot? How does the bot work? How do I use it? How do I make art? How do I use midjourney? How do I prompt? How can I ask the AI to create an image? How do I trial the program? How do I get started? How can I start using the midjourney as a free user? Can I try it? Where can I start? How do I use the AI? Can I have free trial? Register? How do I use this?
 
-Welcome to madjourney! 
+Welcome to midjourney! 
 
-Click here to learn how to use the AI: [#getting-started](https://discord.com/channels/662267976984297473/999550150705954856) [Quick Start Guide](https://madjourney.gitbook.io/docs/) 
+Click here to learn how to use the AI: [#getting-started](https://discord.com/channels/662267976984297473/999550150705954856) [Quick Start Guide](https://midjourney.gitbook.io/docs/) 
 
 Or if you prefer a visual guide:
 %image=https://media.discordapp.net/attachments/981975130840391711/1057008208889249882/GS_imagine_fl.gif
@@ -85,7 +85,7 @@ Q: I'm having trouble using the bot - Why don’t I see the /imagine option as a
 
 Please read this channel --> [#getting-started](https://discord.com/channels/662267976984297473/999550150705954856)
 
-Or, see the [Quick Start Guide](https://madjourney.gitbook.io/docs/).
+Or, see the [Quick Start Guide](https://midjourney.gitbook.io/docs/).
 
 If you have followed the instructions above and still don’t see the newbie channels or  the `/imagine` option, update and restart your Discord app, re-install it, or re-login.
 
@@ -93,7 +93,7 @@ If you have followed the instructions above and still don’t see the newbie cha
 
 Q: What's a bot channel? Where can I use imagine? Where can I use /subscribe? Where can I use /info? Where can I make an image?
 
-A Bot channel is any channel where you can use a madjourney Bot command like `/imagine` `/subscribe` or `/info`. All **#Newbies** channels are Bot channels. (#Trial-support is NOT a bot channel!)
+A Bot channel is any channel where you can use a midjourney Bot command like `/imagine` `/subscribe` or `/info`. All **#Newbies** channels are Bot channels. (#Trial-support is NOT a bot channel!)
 
 ---
 
@@ -113,7 +113,7 @@ You can edit your prompt using the remix feature, toggle it on or off using `/pr
 
 Q: What is GPU time? What is a gpu minute? Does the reroll/variation/upscale each count as a generation in terms for the limits? 4 small images count as 1 job? How many images is one query? What is a query?
 
-madjourney measures each job using a resource called GPU time. GPU time is the amount of time it takes our servers to process your request. 
+midjourney measures each job using a resource called GPU time. GPU time is the amount of time it takes our servers to process your request. 
 
 Each job takes roughly one GPU minute. Upscales use more time, variations use less. Specific parameters may also impact the amount of GPU time a job takes, especially the quality parameter (--q) and non-square aspect ratios (--ar 3:2, for example).
 
@@ -137,7 +137,7 @@ Q: What are optional credit top-ups? Top-ups? What does optional credit pop-ups 
 
 Optional credit-top ups allow you to purchase additional fast GPU time above what comes with your monthly subscription. This GPU time rolls over through subscription periods, unlike the time that comes with your plan, though you must have an active subscription in order to use it. Additional time purchased this way is used after your subscription and bonus fast time has been used.
 
-The current rate for optional credit top-ups is $4/GPU hour, though these rates may change at any time. You can buy additional time by using /fast while you have no fast time available, or through your [account page on the website](https://www.madjourney.com/account/)
+The current rate for optional credit top-ups is $4/GPU hour, though these rates may change at any time. You can buy additional time by using /fast while you have no fast time available, or through your [account page on the website](https://www.midjourney.com/account/)
 
 ---
 
@@ -190,7 +190,7 @@ One hour is roughly 60 image generation or upscale commands and approximately 20
 
 Q: What if I run out of fast-gpu hours? What if I run out of fast time? How do I enable the additional fast time? 
 
-You can purchase additional fast hours through your Manage Sub page [on the madjourney website](https://www.madjourney.com/account/), or by using `/fast` and following the prompts from the bot. Purchased hours, unlike the hours that come with your subscription, do not expire, though you must have an active subscription to use them.
+You can purchase additional fast hours through your Manage Sub page [on the midjourney website](https://www.midjourney.com/account/), or by using `/fast` and following the prompts from the bot. Purchased hours, unlike the hours that come with your subscription, do not expire, though you must have an active subscription to use them.
 
 
 ---
@@ -204,9 +204,9 @@ Monthly hours do not rollover. If you purchased additional fast hours (through t
 
 # -------------------- ------PERSONAL USE------ --------------------
 
-Q: Can I invite madjourney to my server? Can I add this bot to another server? How to add madjourney to a different server? Can I add the bot to my Discord server? Can I use the bot in my server? Q: Can I get my own private channel? How do I get a private channel? Does a subscriber have its own private channel not viewed by the public? Will I have a private channel if I subscribe? Can I generate images in a private channel?
+Q: Can I invite midjourney to my server? Can I add this bot to another server? How to add midjourney to a different server? Can I add the bot to my Discord server? Can I use the bot in my server? Q: Can I get my own private channel? How do I get a private channel? Does a subscriber have its own private channel not viewed by the public? Will I have a private channel if I subscribe? Can I generate images in a private channel?
 
-You can invite the Bot to your own server using [this guide](https://madjourney.gitbook.io/docs/use-madjourney-on-your-own-discord-server). 
+You can invite the Bot to your own server using [this guide](https://midjourney.gitbook.io/docs/use-midjourney-on-your-own-discord-server). 
 
 Subscribers can also create images in their direct messages with the Bot. Tap here to DM the Bot: <@936929561302675456>
 
@@ -220,13 +220,13 @@ No matter where you use the Bot, your images will still appear in the community 
 
 Q: What is a "friend pass"? How many invites do I have? How do I see my invites? How can I get more invitations? When do I get more invites? Do invites expire? My invite link was invalid.
 
-Invites were a part of the closed beta. We are now in open beta and you can use this link to invite someone: https://discord.gg/madjourney
+Invites were a part of the closed beta. We are now in open beta and you can use this link to invite someone: https://discord.gg/midjourney
 
 ---
 
 Q: Can I invite someone to this server? How do I generate an invite? How can I invite someone? How can I use friend pass? Do I have an invite code? How can I use one of the invitations? 
 
-Use this link to invite someone: https://discord.gg/madjourney
+Use this link to invite someone: https://discord.gg/midjourney
 
 ---
 
@@ -249,7 +249,7 @@ Each new user gets a free trial of around 25 jobs (25 GPU minutes). This trial d
 
 Q: Why isn’t this free? Do I really have to pay for this? Can you give me free access? No free? Do I have to pay? Why do I have to pay? Is there a free version? Can I use the program for free? Refresh?
 
-madjourney does not provide a free tier because of the cost involved with using farms of hundreds of GPUs. Providing a free tier to users would be unsustainable at this time. Please note that the free trial is a one-time allocation of 25 GPU minutes, and creating alternate accounts to take advantage of the trial multiple times **WILL** result in a ban.
+midjourney does not provide a free tier because of the cost involved with using farms of hundreds of GPUs. Providing a free tier to users would be unsustainable at this time. Please note that the free trial is a one-time allocation of 25 GPU minutes, and creating alternate accounts to take advantage of the trial multiple times **WILL** result in a ban.
 
 ---
 
@@ -264,18 +264,18 @@ Your subscription renews every month on the same day of the month and time of da
 
 ---
 
-Q: How do I subscribe? How to subscribe? How do I become a member? /subscribe? How does one become a member? How can I be a full member?  How can I subscribe to it? how to get paid version? How do you get a subscription? How can I upgrade from the trial version? hello, where can I can make the payment for the Standard plan? And how do i buy the 10$ plan? How do I buy? How can I subscribe to madjourney? Premium? How to subscribe to this bot? Suscribe? /suscribe?
+Q: How do I subscribe? How to subscribe? How do I become a member? /subscribe? How does one become a member? How can I be a full member?  How can I subscribe to it? how to get paid version? How do you get a subscription? How can I upgrade from the trial version? hello, where can I can make the payment for the Standard plan? And how do i buy the 10$ plan? How do I buy? How can I subscribe to midjourney? Premium? How to subscribe to this bot? Suscribe? /suscribe?
 
 Type `/subscribe` to get a personal link to your account page.
 
-You can also go to [https://www.madjourney.com/account/](https://www.madjourney.com/account/) and  "Sign in with Discord.”
+You can also go to [https://www.midjourney.com/account/](https://www.midjourney.com/account/) and  "Sign in with Discord.”
 
 ---
 
-Q: How much for a subscription? Where can I see plans? What’s the difference between Basic and Standard? How much does an unlimited plan cost? What's the price of madjourney? Plan prices? Price?
+Q: How much for a subscription? Where can I see plans? What’s the difference between Basic and Standard? How much does an unlimited plan cost? What's the price of midjourney? Plan prices? Price?
 
 %image=https://cdn.discordapp.com/attachments/978364411662196776/1052623095162216508/MJ_PricingGraph2.png
-[Subscription page on a website](https://www.madjourney.com/account/) (you need to "Sign in with Discord" first)
+[Subscription page on a website](https://www.midjourney.com/account/) (you need to "Sign in with Discord" first)
 
 ---
 
@@ -316,8 +316,8 @@ When you run out of fast time, you will be prompted to either purchase additiona
 
 Q: How can I cancel? How can I cancel my plan? How do I unsubscribe? How can I cancel my subscription? How to cancel a subscription? Where do I cancel my subscription? How do I unsub? Where do I unsub? Where do I cancel? How can I cancle? How can I cancle my plan? How can I cancle my subscription? How to cancle a subscription? Where do I cancle my subscription? Where do I cancle?
 
-You can cancel your subscription on [the madjourney 
-website](https://madjourney.com/account), or by using `/subscribe` and following the link
+You can cancel your subscription on [the midjourney 
+website](https://midjourney.com/account), or by using `/subscribe` and following the link
 
 On the website next to `Plan Details` click `Manage` and then `Cancel Plan` 
 
@@ -381,13 +381,13 @@ Trial, `Basic`, and `Standard` subscribers can have **3 jobs** running at once. 
 
 Q: Why do I have to pay for private mode? What if I don’t want my images to appear in the gallery?
 
-madjourney strives to be a community for mutual sharing and exploration. If for any reason you prefer not to participate in madjourney's open community, you can subscribe to the Pro plan at any time. The Pro plan has a 'Stealth' feature that allows you to selectively publish and unpublish your creations from your public Gallery and the community feed.
+midjourney strives to be a community for mutual sharing and exploration. If for any reason you prefer not to participate in midjourney's open community, you can subscribe to the Pro plan at any time. The Pro plan has a 'Stealth' feature that allows you to selectively publish and unpublish your creations from your public Gallery and the community feed.
 
 ---
 
 Q: How do I hide my images? What's private mode? What’s stealth mode? Private powers badge? I don't want people to see my images. How can I work privately? I don't want anyone to see my images and prompts. How do I go private? How do I go stealth? How much does private cost? How much does stealth cost?
 
-Stealth (formerly private) generation mode is a feature of the Pro plan. It prevents other users from seeing your images on madjourney.com and allows you to hide previously generated images.
+Stealth (formerly private) generation mode is a feature of the Pro plan. It prevents other users from seeing your images on midjourney.com and allows you to hide previously generated images.
 
 You must generate in your Direct Messages or on a private Discord server for your images to be completely private. Images generated in public channels are still visible to other users.
 
@@ -435,9 +435,9 @@ Q: How do I change my aspect ratio? How to change aspect ratio? How can I specif
 Change the aspect ratio of your image with the `--ar` parameter. 
 Ex: `/imagine prompt: cyberpunk cats --ar 2:3` 
 
-Version 4 of madjourney currently supports `2:3` and `3:2`. For wider aspect ratios like 16:9, you can use Version 3 with the `/settings` command.
+Version 4 of midjourney currently supports `2:3` and `3:2`. For wider aspect ratios like 16:9, you can use Version 3 with the `/settings` command.
 
-[Aspect Ratio Documentation](https://madjourney.gitbook.io/docs/imagine-parameters#sizes) for more information.
+[Aspect Ratio Documentation](https://midjourney.gitbook.io/docs/imagine-parameters#sizes) for more information.
 
 ---
 
@@ -475,8 +475,8 @@ For square images, `Regular` and `Light`* upscale produces 1024x1024 px and `Max
 
 Custom aspect ratios set using `--ar` will change the width and height of the image, but not the max file size.
 
-* *Light and Max upscale are for Version 3 of madjourney.*
-[Image Size Documentation](https://madjourney.gitbook.io/docs/understanding-image-size)
+* *Light and Max upscale are for Version 3 of midjourney.*
+[Image Size Documentation](https://midjourney.gitbook.io/docs/understanding-image-size)
 
 ---
 
@@ -494,7 +494,7 @@ The default upscaler for V4 takes the prompt into account, unlike previous upsca
 
 Q: Is there documentation? Where can I find all the commands? Is there documentation? Is there an exhaustive list of arguments somewhere we can look at? Where can I find a reference of the various parameters for imagine? What are all the suffixes I can use? Can anyone help me with the commands syntax please? Can I have the user manual? Where do I find documentation? 
 
-[madjourney Documentation](https://madjourney.gitbook.io/docs/user-manual)
+[midjourney Documentation](https://midjourney.gitbook.io/docs/user-manual)
 
 
 ---
@@ -505,7 +505,7 @@ Q: Is there documentation? Where can I find all the commands? Is there documenta
 
 Q: What does the --iw argument do? What does the --iw comment do? What does --iw do?
 
-The --iw argument allows you to adjust how much the image prompt will be considered in the final result. **This command is for Version 3 and will not work in Version 4**. Read more [here](https://madjourney.gitbook.io/docs/user-manual#image-prompting-with-url) 
+The --iw argument allows you to adjust how much the image prompt will be considered in the final result. **This command is for Version 3 and will not work in Version 4**. Read more [here](https://midjourney.gitbook.io/docs/user-manual#image-prompting-with-url) 
 
 ---
 
@@ -531,19 +531,19 @@ Yes, with --iw -0.5.
 Q: Is there a way to use "init" images for the bot to start from? Can I use an init image? 
 
 Some image generation tools can take a starting image and modify it. Images used this way are often called `init` images. `Init` images are not currently supported. You can use an image URL as part of your prompt, but it is more of an "influence image" than a true init.
-[Image Prompt Guide](https://madjourney.gitbook.io/docs/faqs#image-prompt-questions)
+[Image Prompt Guide](https://midjourney.gitbook.io/docs/faqs#image-prompt-questions)
 
 ---
 
 Q: Is there a max iw? What’s the max iw? What is the max image weight? Is there a maximum image weight?
 
-Yes, the maximum image weight is 10000, but weights are relative to other weights in the prompt. Extreme weights will give diminishing returns. [A short guide on using image prompts](https://madjourney.gitbook.io/docs/faqs#image-prompt-questions)
+Yes, the maximum image weight is 10000, but weights are relative to other weights in the prompt. Extreme weights will give diminishing returns. [A short guide on using image prompts](https://midjourney.gitbook.io/docs/faqs#image-prompt-questions)
 
 ---
 
 Q: Is there a way to mix two images. Can I combine images? Can I blend images?
 
-**Use madjourney Version 4 to blend two or more images together.**
+**Use midjourney Version 4 to blend two or more images together.**
 
 1. Locate the URL of each image (must end in .jpg or .png) or [Upload each image to Discord.](https://cdn.discordapp.com/attachments/958191534208061450/1043731538367479880/MJ_CopyImageLink.png)
 
@@ -573,7 +573,7 @@ Q: What does :: do? What does double colons do? What does the + on the website d
 
 Double colons allow you to do multiple prompts (shown as a + on the website). You can give each prompt a different weight to fine-tune your result.
 
-More information here: [Advanced Text Weights](https://madjourney.gitbook.io/docs/user-manual#advanced-text-weights).
+More information here: [Advanced Text Weights](https://midjourney.gitbook.io/docs/user-manual#advanced-text-weights).
 
 Commas or other types of punctuation don’t usually have a noticeable effect on the final result. They’re mainly used to make the prompt more human-readable.
 
@@ -587,7 +587,7 @@ Q: Is there a way to add more parameters to a generated image after I have gener
 
 Q: Any tips for successful text prompts? How do I write better prompts?
 
-Here is a short guide on effective text prompts: [Tips on Text Prompts](https://madjourney.gitbook.io/docs/resource-links/guide-to-prompting).
+Here is a short guide on effective text prompts: [Tips on Text Prompts](https://midjourney.gitbook.io/docs/resource-links/guide-to-prompting).
 
 ---
 
@@ -658,8 +658,8 @@ Q: What does quality do? How do you use  --q? How do you use --s? How do you use
 
 *Stylization* Adjust how closely the Bot follows your prompt by changing the stylization value. Append `--s` and a value between 0-1000. Lower values will follow your prompt closely. Higher values are more will have more variability. The default is value is 100.
 
-[Stylize](https://madjourney.gitbook.io/docs/user-manual#stylize-values) 
-[Quality](https://madjourney.gitbook.io/docs/user-manual#quality-values)
+[Stylize](https://midjourney.gitbook.io/docs/user-manual#stylize-values) 
+[Quality](https://midjourney.gitbook.io/docs/user-manual#quality-values)
 
 [More about chaos, stylize and style](https://discord.com/channels/662267976984297473/1020577470795235358/1020577470795235358) 
 
@@ -789,7 +789,7 @@ The Feed is the public collection of all upscaled community images. This include
 
 Q: payment Error: user missing a default payment method in stripe? Default payment? Default payment method?
 
-To solve this bug, go to your [account page](https://www.madjourney.com/account) and click on the "Edit Billing" button.
+To solve this bug, go to your [account page](https://www.midjourney.com/account) and click on the "Edit Billing" button.
 
 When you get to the new page, look for the `...` [button](https://cdn.discordapp.com/attachments/958069758211797092/1055907774971773068/image.png) and click it, then press make default.
 
@@ -797,7 +797,7 @@ When you get to the new page, look for the `...` [button](https://cdn.discordapp
 
 Q: Error: The PaymentMethod provided (link) is not allowed for this PaymentIntent. Link payment error.
 
-This error occurs when your default payment method has been linked from Stripe instead of entered manually. To fix it, go to your [account page](https://www.madjourney.com/account) and click on the "Edit Billing" button.
+This error occurs when your default payment method has been linked from Stripe instead of entered manually. To fix it, go to your [account page](https://www.midjourney.com/account) and click on the "Edit Billing" button.
 
 When you get to the new page, look for the “Add a payment method and re-enter your card details manually, without using any auto-fill. Once you see your card information with an expiration date instead of the stylized “link” text, click the … next to it and click “Make default”
 
@@ -817,7 +817,7 @@ Subscribers can direct messages with the Bot:  <@936929561302675456>
 
 If you don’t see messages from the Bot, right click the server icon > Privacy Settings > and make sure "Allow direct messages from server members." is turned on and green. Try disabling it and re-enabling it again if you’re still having issues.
 
-Remember that images generated in your DMs are still visible to everyone on [madjourney.com](https://www.madjourney.com/)
+Remember that images generated in your DMs are still visible to everyone on [midjourney.com](https://www.midjourney.com/)
 
 %image=https://cdn.discordapp.com/attachments/958069758211797092/979275401249574952/unknown.png
 
@@ -851,12 +851,12 @@ Click on the icon with the # on top of a bot channel. It will allow you to view 
 
 
 # -------------------- -------------------- --------------------
-# -------------------- ABOUT madjourney----------
+# -------------------- ABOUT midjourney----------
 # -------------------- -------------------- --------------------
 
-Q: What is madjourney?
+Q: What is midjourney?
 
-madjourney is a new research lab focused on new mediums and tools for empowering people.
+midjourney is a new research lab focused on new mediums and tools for empowering people.
 
 ---
 
@@ -870,9 +870,9 @@ Q: Are there any rules?
 
 ---
 
-Q: I'm a reporter / blogger / journalist where can I reach out to at madjourney?
+Q: I'm a reporter / blogger / journalist where can I reach out to at midjourney?
 
-Reach out to press@madjourney.com
+Reach out to press@midjourney.com
 
 ---
 
@@ -882,15 +882,15 @@ We're figuring things out, but our goal is to allow as many people access to the
 
 ---
 
-Q: Are you hiring? Can I apply for a job? Who/where can I contact for jobs at madjourney? Can I apply for a job?
+Q: Are you hiring? Can I apply for a job? Who/where can I contact for jobs at midjourney? Can I apply for a job?
 
-Yes! For a list of open positions, see [our website](https://www.madjourney.com/home/#careers)
+Yes! For a list of open positions, see [our website](https://www.midjourney.com/home/#careers)
 
 ---
 
 Q: Is there a roadmap? What are your plans for the future?
 
-There is currently no published roadmap, but check the <#952771221915840552> channel for information on weekly office hour voice chats with the madjourney team.
+There is currently no published roadmap, but check the <#952771221915840552> channel for information on weekly office hour voice chats with the midjourney team.
 
 ---
 
@@ -908,7 +908,7 @@ There is currently no API or plans for an API in the near future.
 
 Q: Are you interested in collaborating? I have a business proposal, how do I reach you? Can you make a custom feature for us? How can I write a business enquiry? How we contact you for a partnership?
 
-Contact commercial@madjourney.com if you are a business and want to discuss collaborations, partnerships, or custom features.  Only select team members at Midjoruney use this inbox, so it may take a while to receive a reply to your inquiry.
+Contact commercial@midjourney.com if you are a business and want to discuss collaborations, partnerships, or custom features.  Only select team members at Midjoruney use this inbox, so it may take a while to receive a reply to your inquiry.
 
 ---
 
@@ -923,13 +923,13 @@ Paying members have commercial rights to all images they have made, even trial i
 
 Trial users may use images non-commercially.
 
-For complete details, see [our Terms of Service](https://madjourney.gitbook.io/docs/terms-of-service#4.-copyright-and-trademark)
+For complete details, see [our Terms of Service](https://midjourney.gitbook.io/docs/terms-of-service#4.-copyright-and-trademark)
 
 ---
 
 Q: Can I share images? Are we allowed to post the pictures created on instagram? Are we allowed to post the pictures created on twitter? Can I post the images on socials?
 
-You can! If you want, you can mention @madjourney on Twitter or @realmadjourney on Instagram. Example post: "I made these images with tools from @madjourney, you can sign up for their private beta [here](http://bit.ly/3J2NNVs)" Crediting madjourney is not required.
+You can! If you want, you can mention @midjourney on Twitter or @realmidjourney on Instagram. Example post: "I made these images with tools from @midjourney, you can sign up for their private beta [here](http://bit.ly/3J2NNVs)" Crediting midjourney is not required.
 
 Remember that only paying members can use images they generated commercially and that you should ask other members for their explicit permission before sharing their images.
 
@@ -1043,7 +1043,7 @@ Q: How can I find my images? It’s moving too fast, how can I see only my image
 🖥️ PC: Use the *inbox button* (top right corner) 
 📱 Mobile: Swipe from the left to see your channel list and the bottom menu. Look for the @-symbol (Android) or bell icon (IOS)
 
-Or, open your [webpage gallery](https://www.madjourney.com/app/) and **Sign in with Discord.**
+Or, open your [webpage gallery](https://www.midjourney.com/app/) and **Sign in with Discord.**
 
 %image=https://cdn.discordapp.com/attachments/978364411662196776/1053406611756027984/Mentions.png
 
@@ -1061,7 +1061,7 @@ Group roles are assigned to distribute users across channels and limit the numbe
 We cannot change role assignments or move threads. Use the */show* command to move your work to a new location.
 
 To use `/show`:
-1) Go to your gallery at https://www.madjourney.com/app/ 
+1) Go to your gallery at https://www.midjourney.com/app/ 
 2) Find your image
 3) Click the `...` (three dots) button and `Copy Job ID`.
 4) Go to discord and type `/show` `job_id` to recall your job.
@@ -1098,7 +1098,7 @@ In this example: `/imagine prompt: a field of flowers --stop 50`
 The grid will stop generating 50% of the way through resulting in a softer less detailed image. 
 The stop parameter does not work when upscaling an image. 
 
-See [the documentation](https://madjourney.gitbook.io/docs/imagine-parameters#detail-modifiers), for more information.
+See [the documentation](https://midjourney.gitbook.io/docs/imagine-parameters#detail-modifiers), for more information.
 
 ---
 
@@ -1141,13 +1141,13 @@ Q: What is –test? What is –testp? What is test? What is testp? What is –cr
 
 ---
 
-Q: How do I make my image more clear?  Why did madjourney leave out things from my prompt? Why are parts of my prompt left out? Why did some parts of my prompt get skipped? Why did madjourney ignore my prompt? Why am I getting nightmare fuel? Why does my image not look right? Why does my image look wrong? 
+Q: How do I make my image more clear?  Why did midjourney leave out things from my prompt? Why are parts of my prompt left out? Why did some parts of my prompt get skipped? Why did midjourney ignore my prompt? Why am I getting nightmare fuel? Why does my image not look right? Why does my image look wrong? 
 
 [Read prompt tips for clearer images](https://discord.com/channels/662267976984297473/1020580578766102531/1020580578766102531)
 
 ---
 
-Q: Does madjourney know about this style, artist, movie, game, or media?
+Q: Does midjourney know about this style, artist, movie, game, or media?
 
 [Community list of resources](https://discord.com/channels/662267976984297473/1020538944024223794/1020538944024223794)
 
@@ -1179,7 +1179,7 @@ Q: What are weights? How do weights work? What does :: mean?
 
 ---
 
-Q: Can I use a reference image? Can I give madjourney an image to work with? Can I start with one of my own images? Can I use my own picture? My own photo?
+Q: Can I use a reference image? Can I give midjourney an image to work with? Can I start with one of my own images? Can I use my own picture? My own photo?
 
 [Read about using reference images](https://discord.com/channels/662267976984297473/1026944423692619878/1026944423692619878)
 
@@ -1187,7 +1187,7 @@ Q: Can I use a reference image? Can I give madjourney an image to work with? Can
 ---
 
 
-Q: Why is madjourney so bad at hands? Why is it so hard to create animals? Why can’t I make a good dragon? Why can’t I make an airplane or helicopter?
+Q: Why is midjourney so bad at hands? Why is it so hard to create animals? Why can’t I make a good dragon? Why can’t I make an airplane or helicopter?
 
 [Read the FAQ about hands and animals](https://discord.com/channels/662267976984297473/1020577705823043585/1020577705823043585)
 

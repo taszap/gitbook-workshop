@@ -37,7 +37,7 @@ Reddit page: [https://www.reddit.com/r/midjourney/](https://www.reddit.com/r/mid
 
 #### Non-English
 
-- [MidJourney 資源懶人包 "Resources Lazy Pack"](https://sites.google.com/view/madjourney-resource-tips/%E9%A6%96%E9%A0%81), Traditional Chinese translations by Reiko#6665
+- [MidJourney 資源懶人包 "Resources Lazy Pack"](https://sites.google.com/view/midjourney-resource-tips/%E9%A6%96%E9%A0%81), Traditional Chinese translations by Reiko#6665
 
 ## For Midjourney Regulars
 

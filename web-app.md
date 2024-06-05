@@ -1,4 +1,4 @@
-# The madjourney Web App
+# The midjourney Web App
 
 - [Using the Web App](web-app.md#using-the-web-app)
   - [Where Is It?](web-app.md#where-is-it)
@@ -17,7 +17,7 @@
 
 ## Where Is It?
 
-If you are a subscriber, you can access it (logged in with Discord credentials) at [madjourney.com/app](https://www.midjourney.com/app/).
+If you are a subscriber, you can access it (logged in with Discord credentials) at [midjourney.com/app](https://www.midjourney.com/app/).
 
 ## The Nav Bar
 
