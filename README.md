@@ -1,9 +1,33 @@
 ---
 cover: .gitbook/assets/MJ_Letters.gif
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Quick Start Guide
+
+<div data-full-width="true">
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+### Explore more topics
+
+<table data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Getting started </td><td>Learn how to use Discord to work with the Midjourney Bot.</td><td><a href=".gitbook/assets/MJ_ASCII_Icons_start.png">MJ_ASCII_Icons_start.png</a></td></tr><tr><td>Using Discord</td><td>Explore the basics of prompt writing and creating images.</td><td><a href=".gitbook/assets/MJASCII_Icons_Discord.png">MJASCII_Icons_Discord.png</a></td></tr></tbody></table>
 
 Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 

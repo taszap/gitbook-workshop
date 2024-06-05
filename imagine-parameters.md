@@ -34,10 +34,6 @@ Only certain ratios are currently supported, while others are only supported whe
 
 For more information, see [Understanding Image Sizes](resource-links/understanding-image-size.md).
 
-
-
-
-
 {% hint style="info" %}
 Generating images while using `--wallpaper` and other shortcuts that contain `--hd` will use a different algorithm that is better suited for higher resolution images while having a less consistent composition. [See below for a visual example](imagine-parameters.md#high-definition).
 {% endhint %}
@@ -84,7 +80,7 @@ Generating images while using `--wallpaper` and other shortcuts that contain `--
 
 `--stop` Stop the generation at an earlier percentage. Must be between 10-100.
 
-![](<.gitbook/assets/image (1).png>) prompt: **`vibrant california poppies --stop 50`**
+![](<.gitbook/assets/image (1) (1).png>) prompt: **`vibrant california poppies --stop 50`**
 
 #### --Uplight
 
