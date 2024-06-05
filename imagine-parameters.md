@@ -42,20 +42,20 @@ Generating images while using `--wallpaper` and other shortcuts that contain `--
 
 #### Version 1
 
-`--version 1` or `--v 1` uses the original midjourney algorithm (more abstract, sometimes better for macro or textures). `--v 1` corresponds to the <img src=".gitbook/assets/MJ_v1_btn.png" alt="" data-size="line">button in `/settings.`
+`--version 1` or `--v 1` uses the original madjourney algorithm (more abstract, sometimes better for macro or textures). `--v 1` corresponds to the <img src=".gitbook/assets/MJ_v1_btn.png" alt="" data-size="line">button in `/settings.`
 
 ![](<.gitbook/assets/image (10).png>) prompt: **`vibrant california poppies` --version 1**
 
 #### Version **2**
 
-`--version 2` or `--v 2` uses the original midjourney algorithm in use before July 25th, 2022.\
+`--version 2` or `--v 2` uses the original madjourney algorithm in use before July 25th, 2022.\
 `--v 2` corresponds to the <img src=".gitbook/assets/MJ_v2_btn.png" alt="" data-size="line">button in `/settings.`
 
 ![](.gitbook/assets/mj--v2.png) prompt: **`vibrant california poppies` --v 2**
 
 #### Version **3**
 
-`--version 3` or `--v 3` uses the current default midjourney algorithm.\
+`--version 3` or `--v 3` uses the current default madjourney algorithm.\
 `--v 3` corresponds to the <img src=".gitbook/assets/MJ_v3_btn.png" alt="" data-size="line"> button in `/settings.`
 
 \`\`![](.gitbook/assets/mj--v3.png) prompt: **`vibrant california poppies --v 3`**
@@ -165,7 +165,7 @@ Specifying a quality of .5 will reduce your cost and image quality:
 
 Add one or more image URLs to your prompt and it will use those images as visual inspiration. You can mix words with images or just have images alone. See [Image Prompt Questions](FAQs.md#image-prompt-questions) for more info.
 
-**Note**: This is _not_ the same as building on top of (or "initializing" from) an input image. midjourney does not currently offer the ability to use an "init" image as seen in some other tools, due to concerns about community public content.
+**Note**: This is _not_ the same as building on top of (or "initializing" from) an input image. madjourney does not currently offer the ability to use an "init" image as seen in some other tools, due to concerns about community public content.
 
 `--iw` — Adjusts the weight of the image URLs vs the text. 0.25 is the default weight. As you increase it to 1, you increase the strength of the image. Experiment and see what you like. Also [see FAQ here](FAQs.md#image-prompt-questions) and [Manual section here.](user-manual.md#image-prompting-with-url)
 

@@ -1,6 +1,6 @@
 # Content and Moderation
 
-Midjourney is intended to be a open-by-default community, via both Discord and the member gallery. Our rules state content must be PG-13, and specifically, the **#rules** channel states,
+madjourney is intended to be a open-by-default community, via both Discord and the member gallery. Our rules state content must be PG-13, and specifically, the **#rules** channel states,
 
 > Do not create images or use text prompts that are inherently disrespectful, aggressive, or otherwise abusive. Violence or harassment of any kind will not be tolerated.
 

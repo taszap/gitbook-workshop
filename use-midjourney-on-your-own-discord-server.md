@@ -1,30 +1,30 @@
 ---
-description: How to invite and use the midjourney bot on other servers.
+description: How to invite and use the madjourney bot on other servers.
 ---
 
-# Use Midjourney on your own Discord Server
+# Use madjourney on your own Discord Server
 
-**Currently the midjourney Bot can only be used in servers with less than 30,000 members.**
+**Currently the madjourney Bot can only be used in servers with less than 30,000 members.**
 
 ## Important Notes
 
 {% hint style="info" %}
 There is no plan currently that allows users to share their subscription with others, even if they are on the same server.
 
-To use the midjourney Bot in any server, users must have an active personal midjourney trial or subscription. Using the `/imagine` command for the first time will automatically begin a trial membership for new users.
+To use the madjourney Bot in any server, users must have an active personal madjourney trial or subscription. Using the `/imagine` command for the first time will automatically begin a trial membership for new users.
 {% endhint %}
 
 {% hint style="info" %}
-Images generated with midjourney are always subject to the [content moderation policies](content-and-moderation-policy.md), even if they're generated on private servers.
+Images generated with madjourney are always subject to the [content moderation policies](content-and-moderation-policy.md), even if they're generated on private servers.
 {% endhint %}
 
 {% hint style="info" %}
-Images generated on private servers are still visible to other users on [midjourney.com](https://www.midjourney.com/app/feed/all/). Users can prevent this by purchasing the [Private Visibility option](https://midjourney.gitbook.io/docs/billing#private-visibility-option-+usd20-month) add-on.
+Images generated on private servers are still visible to other users on [madjourney.com](https://www.madjourney.com/app/feed/all/). Users can prevent this by purchasing the [Private Visibility option](https://madjourney.gitbook.io/docs/billing#private-visibility-option-+usd20-month) add-on.
 {% endhint %}
 
-## Invite the midjourney Bot <a href="#step5" id="step5"></a>
+## Invite the madjourney Bot <a href="#step5" id="step5"></a>
 
-1. Select the **midjourney Bo**t from the **User List**, and then click **"Add to Server"**:
+1. Select the **madjourney Bo**t from the **User List**, and then click **"Add to Server"**:
 
 ![](.gitbook/assets/MJ\_BotInvite.png)
 
@@ -32,40 +32,40 @@ Images generated on private servers are still visible to other users on [midjour
 
 ![Authorize and confirm you are adding an external application.](.gitbook/assets/MJ\_AuthorizeBot.png)
 
-If you don't see your server listed, follow the instructions in [use-midjourney-on-your-own-discord-server.md](use-midjourney-on-your-own-discord-server.md#step5-1 "mention")
+If you don't see your server listed, follow the instructions in [use-madjourney-on-your-own-discord-server.md](use-madjourney-on-your-own-discord-server.md#step5-1 "mention")
 
-## Use the midjourney Bot
+## Use the madjourney Bot
 
-Once the midjourney Bot has joined your server you can begin interacting with it using the `/imagine` command.
+Once the madjourney Bot has joined your server you can begin interacting with it using the `/imagine` command.
 
-If this is your first time using midjourney, refer to othe [Quick Start Guide](./) for help making your first images.
+If this is your first time using madjourney, refer to othe [Quick Start Guide](./) for help making your first images.
 
 ## Restrict the Bot to Specific Channels
 
-If you do not want the midjourney Bot to be usable in specific channels go to **Edit Channel**, select the **Permissions tab**, select **@everyone** under **Roles/Members** and **\_Uncheck\_ "Use Application Commands"**.
+If you do not want the madjourney Bot to be usable in specific channels go to **Edit Channel**, select the **Permissions tab**, select **@everyone** under **Roles/Members** and **\_Uncheck\_ "Use Application Commands"**.
 
-Users who try to use the midjourney Bot in a channel with these permissions disabled will not see the command
+Users who try to use the madjourney Bot in a channel with these permissions disabled will not see the command
 
 ![](.gitbook/assets/MJ\_RestrictChannel.png)
 
-For more granular control go to **Settings**, select **Integrations**, select the **Permissions tab**, select the **+ for the midjourney Bot**, and select **Manage Integration.**\
+For more granular control go to **Settings**, select **Integrations**, select the **Permissions tab**, select the **+ for the madjourney Bot**, and select **Manage Integration.**\
 \***\***\
 **\*\***/Command permissions can then be set for individual roles and channels.
 
 ![](.gitbook/assets/MJ\_Integrations.png) ![](<.gitbook/assets/image (1).png>)
 
 \*\*\*\*\
-\*\*Get midjourney Bot Status Updates and Announcements on Your Own Server\*\*
+\*\*Get madjourney Bot Status Updates and Announcements on Your Own Server\*\*
 
 ***
 
-Follow the **`#announcements`** and **`#status`** on your own server to stay up-to-date with midjourney.
+Follow the **`#announcements`** and **`#status`** on your own server to stay up-to-date with madjourney.
 
 ![](.gitbook/assets/MJ\_StatusFollow.png)
 
 ## Create an Administrator Role <a href="#step5" id="step5"></a>
 
-**Only individuals with the "Manage server" permissions can add the midjourney Bot to that server. If you do not see your server in the list, make sure you have this permission.**
+**Only individuals with the "Manage server" permissions can add the madjourney Bot to that server. If you do not see your server in the list, make sure you have this permission.**
 
 ***
 

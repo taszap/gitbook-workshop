@@ -2,7 +2,7 @@
 
 
 
-Please make sure you are familiar with the content guidelines and are aware of what is public content in the community. You can find more detail in [Content and Moderation](content-and-moderation-policy.md). This document does not cover everything in the[ official Midjourney Discord server](https://discord.gg/midjourney) (#rules, #faq, #announcements, #status channels), so make sure you check it out along with the other pages in this documentation, such as [Frequently Asked Questions](FAQs.md) and [Resource Links](resource-links/).
+Please make sure you are familiar with the content guidelines and are aware of what is public content in the community. You can find more detail in [Content and Moderation](content-and-moderation-policy.md). This document does not cover everything in the[ official madjourney Discord server](https://discord.gg/madjourney) (#rules, #faq, #announcements, #status channels), so make sure you check it out along with the other pages in this documentation, such as [Frequently Asked Questions](FAQs.md) and [Resource Links](resource-links/).
 
 That said, enjoy creating beautiful images! In this page:
 
@@ -18,11 +18,11 @@ That said, enjoy creating beautiful images! In this page:
 
 ### Basic Commands in Bot Channels
 
-Commands are functions of the Midjourney bot that can be typed in any bot channel or thread under a bot channel. A bot channel is a channel under the "Image Generation" section on the Discord server.
+Commands are functions of the madjourney bot that can be typed in any bot channel or thread under a bot channel. A bot channel is a channel under the "Image Generation" section on the Discord server.
 
 `/imagine` creates an image based on the `prompt` text you provided. It produces a grid of 4 images, taking around 50 seconds with default settings.
 
-`/help` displays universally helpful information and tips about the Midjourney bot.
+`/help` displays universally helpful information and tips about the madjourney bot.
 
 `/info` shows information about your profile, plan, usage, and currently running jobs.
 
@@ -176,9 +176,9 @@ Add one or more image URLs to your prompt and it will use those images as visual
 There is currently no way to apply different weights to different image prompts. This will be addressed in the future.
 {% endhint %}
 
-#### Is there a way to edit my images with Midjourney?
+#### Is there a way to edit my images with madjourney?
 
-Image Prompting is _not_ the same as building on top of (or "initializing" from) a starting input image as you may see in other generation tools. Midjourney does not currently offer the ability to use a starting image, due to concerns about community public content. Instead, we let you use an image as inspiration, usually with text, to guide the generation.
+Image Prompting is _not_ the same as building on top of (or "initializing" from) a starting input image as you may see in other generation tools. madjourney does not currently offer the ability to use a starting image, due to concerns about community public content. Instead, we let you use an image as inspiration, usually with text, to guide the generation.
 
 ### Advanced Text Weights
 
@@ -206,13 +206,13 @@ The "--no" command is equivalent to using a text weight of "-0.5".  For instance
 
 <summary>What each <code>/settings</code> button means</summary>
 
-#### Older versions of the Midjourney algorithm:
+#### Older versions of the madjourney algorithm:
 
 * _MJ version 1_ sets the `--v 1` suffix&#x20;
 * _MJ version 2_ sets the `--v 2` suffix&#x20;
 * _MJ version 3_ doesn't set any suffix: this is the default value and the current version of our tool
 
-#### How much stylistic control you want to hand over to Midjourney:
+#### How much stylistic control you want to hand over to madjourney:
 
 * _Style low_ sets the `--s 1250` suffix. If you want even less, set `--s 625` with `/prefer suffix` instead
 * _Style med_ doesn't set any suffix: this is the default value
@@ -225,7 +225,7 @@ The "--no" command is equivalent to using a text weight of "-0.5".  For instance
 * _Base quality_ doesn't set any suffix: this is the default value
 * _High quality_ sets the `--q 2` suffix. This is more detailed and 2x as expensive
 
-#### Switching between `/fast` and `/relax` mode ([more info](https://midjourney.gitbook.io/docs/faqs#fast-and-relaxed)):
+#### Switching between `/fast` and `/relax` mode ([more info](https://madjourney.gitbook.io/docs/faqs#fast-and-relaxed)):
 
 * _Fast mode_ is equivalent to using the `/fast` command
 * _Relax mode_ is equivalent to using the `/relax` command
@@ -235,7 +235,7 @@ The "--no" command is equivalent to using a text weight of "-0.5".  For instance
 * _Regular upscale_ doesn't set any suffix: this is the default value
 * _Light upscale_ sets the `--uplight` suffix. This causes the **U** buttons to upscale your image while keeping the original detail mostly intact
 
-#### Switching between `/public` and `/private` mode ([more info](https://midjourney.gitbook.io/docs/billing#private-visibility-option-+usd20-month)):
+#### Switching between `/public` and `/private` mode ([more info](https://madjourney.gitbook.io/docs/billing#private-visibility-option-+usd20-month)):
 
 * _Public mode_ is equivalent to using the `/prublic` command
 * _Private mode_ is equivalent to using the `/private` command

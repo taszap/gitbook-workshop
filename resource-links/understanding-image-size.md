@@ -6,7 +6,7 @@ description: >-
 
 # Understanding Image Size
 
-There are lots of terms for how "big" an image is. Words like resolution, file size, pixel count, dots per inch, high-res, are used interchangeably by many. Understanding what these words mean can help you get the results you want from Midjourney images.
+There are lots of terms for how "big" an image is. Words like resolution, file size, pixel count, dots per inch, high-res, are used interchangeably by many. Understanding what these words mean can help you get the results you want from madjourney images.
 
 _This guide is a simplified non-technical way of approaching each concept._
 
@@ -75,7 +75,7 @@ For this example, you have a 1200x1200 pixel image.  What DPI is that image? It 
 
 
 
-## Midjourney Image Sizes
+## madjourney Image Sizes
 
 The default size of the initial 2x2 grid is 512x512 pixels.
 
@@ -85,7 +85,7 @@ The default upscale to max size is 1664 x 1664 pixels.
 
 ![](<../.gitbook/assets/Image Comparisson.png>)
 
-Lots of other aspect ratios can be generated, but **the maximum file size Midjourney can generate is about 3 megabytes.**
+Lots of other aspect ratios can be generated, but **the maximum file size madjourney can generate is about 3 megabytes.**
 
 An upscaled default square image at 1664x1664 has 2,768,896 pixels. Let's round that to 3million for simplicity. These 3 million pixels could be a 10x300,000 pixel image, a 100x30,000 pixel image or any other aspect ratio. You can not go above that 3mb ceiling though, so you could not make a typical 4K (3840 x 2160) image because it would be over 8 million pixels.
 
@@ -107,9 +107,9 @@ Only certain ratios are currently supported, while others are only supported whe
 
 
 
-## Can You Print a Midjourney Image?
+## Can You Print a madjourney Image?
 
-Absolutely! The quality of your print simply follows the above rules of DPI.  If you want a quality print you need 300 pieces of information in every inch.  So the default 1664x1664 pixel midjourney max-upscale image would produce a good quality 5.5 in x 5.5 in print.
+Absolutely! The quality of your print simply follows the above rules of DPI.  If you want a quality print you need 300 pieces of information in every inch.  So the default 1664x1664 pixel madjourney max-upscale image would produce a good quality 5.5 in x 5.5 in print.
 
 1664 / 300 = 5.55
 

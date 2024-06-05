@@ -1,4 +1,4 @@
-# The midjourney Web App
+# The madjourney Web App
 
 - [Using the Web App](web-app.md#using-the-web-app)
   - [Where Is It?](web-app.md#where-is-it)
@@ -17,7 +17,7 @@
 
 ## Where Is It?
 
-If you are a subscriber, you can access it (logged in with Discord credentials) at [midjourney.com/app](https://www.midjourney.com/app/).
+If you are a subscriber, you can access it (logged in with Discord credentials) at [madjourney.com/app](https://www.madjourney.com/app/).
 
 ## The Nav Bar
 
@@ -61,13 +61,13 @@ There is currently no way to delete your images via the gallery. The best way to
 
 ## What's the Feed?
 
-The ["feed"](https://www.midjourney.com/app/feed/) is the community record of public upscales, which includes DMs with the bot that are not paid /private usage. If you mouse over an image, you will see the prompt.
+The ["feed"](https://www.madjourney.com/app/feed/) is the community record of public upscales, which includes DMs with the bot that are not paid /private usage. If you mouse over an image, you will see the prompt.
 
 ![The Feed](<.gitbook/assets/image (15).png>)
 
 ## Image LeaderBoards and Rating
 
-Nominate your own images (by rating them) or rate other people's images at: [https://midjourney.com/app/ranking/](https://midjourney.com/app/ranking/)
+Nominate your own images (by rating them) or rate other people's images at: [https://madjourney.com/app/ranking/](https://madjourney.com/app/ranking/)
 
 ![Ranking in the menu (no, I haven't done a lot)](<.gitbook/assets/image (1) (2).png>)
 
@@ -79,7 +79,7 @@ We will use these ratings to improve our AI so ratings are 'serious'.
 
 ## The "Map"
 
-The map is a visualization of users of Midjourney by their prompts and similarity to other users. You can use it to search for people to follow.
+The map is a visualization of users of madjourney by their prompts and similarity to other users. You can use it to search for people to follow.
 
 ![the Map (don't judge, I play a telephone game on MJ)](<.gitbook/assets/image (4) (1).png>)
 
@@ -97,7 +97,7 @@ If you want to follow people's work, you can do that from the menu on their imag
 
 ## Viewing Great Images!
 
-If you want to see the top ranked images from the previous week, go to [www.midjourney.com/app/ranking/feed/](https://www.midjourney.com/app/ranking/feed/).
+If you want to see the top ranked images from the previous week, go to [www.madjourney.com/app/ranking/feed/](https://www.madjourney.com/app/ranking/feed/).
 
 ## Dictionary
 
@@ -107,13 +107,13 @@ Available under the Help section of the sidebar, the dictionary shows the output
 
 ## Styles and Artists
 
-Available in [Styles](https://www.midjourney.com/app/library/styles/), you can find examples of artist and style applications. Styles that aren't shown here will still probably work for you, though.
+Available in [Styles](https://www.madjourney.com/app/library/styles/), you can find examples of artist and style applications. Styles that aren't shown here will still probably work for you, though.
 
 ![Styles icon on left side](<.gitbook/assets/image (20) (1).png>)
 
 ## Account and Subscription Settings
 
-On the lower left corner is your user icon. Click on it to find "Manage Sub." [This page](https://www.midjourney.com/account/) (if you are logged in) is your account settings and billing options. There are some subscription FAQs at the bottom.
+On the lower left corner is your user icon. Click on it to find "Manage Sub." [This page](https://www.madjourney.com/account/) (if you are logged in) is your account settings and billing options. There are some subscription FAQs at the bottom.
 
 ![Lower part of nav bar](<.gitbook/assets/image (20).png>)
 

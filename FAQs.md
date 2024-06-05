@@ -16,9 +16,9 @@
 
 ## General Questions
 
-**Q: What is Midjourney?**
+**Q: What is madjourney?**
 
-Midjourney is a new research lab focused on new mediums and tools for empowering people.
+madjourney is a new research lab focused on new mediums and tools for empowering people.
 
 **Q: Are there any rules?**
 
@@ -29,11 +29,11 @@ Midjourney is a new research lab focused on new mediums and tools for empowering
 
 **Q: Can I share images?**
 
-You can! When you do pls @midjourney on twitter or link to https://twitter.com/midjourney Example post: "I made these images with tools from @midjourney, you can sign up for their private beta here http://bit.ly/3J2NNVs"
+You can! When you do pls @madjourney on twitter or link to https://twitter.com/madjourney Example post: "I made these images with tools from @madjourney, you can sign up for their private beta here http://bit.ly/3J2NNVs"
 
 **Q: Can I invite someone to this server?**
 
-Midjourney is now in open beta, which means anyone can join to try the service using the [Discord link](https://discord.gg/midjourney). Type /invite to see the Discord link (`https://discord.gg/midjourney`) they can use.
+madjourney is now in open beta, which means anyone can join to try the service using the [Discord link](https://discord.gg/madjourney). Type /invite to see the Discord link (`https://discord.gg/madjourney`) they can use.
 
 **Q: Can I do detailed public reviews of the current beta? Can I post screenshots / videos of the Discord?**
 
@@ -45,7 +45,7 @@ We are not taking equity investment at this time. Business partnerships and dona
 
 **Q: I'm a reporter / blogger and want to write something**
 
-Please reach out to press@midjourney.com
+Please reach out to press@madjourney.com
 
 **Q: Where does your funding come from?**
 
@@ -57,7 +57,7 @@ We're figuring things out, but our goal is to allow as many people access to the
 
 **Q: Can I help? Are you hiring?**
 
-Yes! Email careers@midjourney.com about what you enjoy doing (twitter/linkedin/resume helps us respond faster) ﻿
+Yes! Email careers@madjourney.com about what you enjoy doing (twitter/linkedin/resume helps us respond faster) ﻿
 
 **Q: Can we use images for commercial projects?**
 
@@ -67,7 +67,7 @@ Check the [Terms of Service](terms-of-service.md) for some basic terms and conta
 
 **Q: How do I DM the bot?**
 
-A: The easiest way to initiate a DM conversation with the bot is to reply to a generation you made in a bot channel with the envelope emoji, :envelope:, and it will open a DM conversation with you in Discord. You will have to find it in your Discord Home, where Direct Messages and listed. Click on the **MidJourney Bot**. Now you can use the `/imagine` command and other commands listed below. Please note the images will still appear on your gallery unless you use /private.
+A: The easiest way to initiate a DM conversation with the bot is to reply to a generation you made in a bot channel with the envelope emoji, :envelope:, and it will open a DM conversation with you in Discord. You will have to find it in your Discord Home, where Direct Messages and listed. Click on the **madjourney Bot**. Now you can use the `/imagine` command and other commands listed below. Please note the images will still appear on your gallery unless you use /private.
 
 You can also right-click on the bot in any bot channel, and you should see the option to message the bot.
 
@@ -75,7 +75,7 @@ You can also right-click on the bot in any bot channel, and you should see the o
 
 **Q: I thought my DM images were private. Why are they being moderated?**
 
-Images created in DMs and with /private are still viewable by moderators and the Midjourney team.
+Images created in DMs and with /private are still viewable by moderators and the madjourney team.
 
 **Q: The bot should have DM'ed me because I used ✉️, but I don't see any messages.**
 
@@ -151,7 +151,7 @@ A: You can generate 3 images at once. If you start more jobs you'll get a messag
 
 ## Inviting Friends
 
-Midjourney is now in open beta, which means anyone can join to try the service using the [Discord link](https://discord.gg/midjourney). Type /invite to see the Discord link (`https://discord.gg/midjourney`) they can use.
+madjourney is now in open beta, which means anyone can join to try the service using the [Discord link](https://discord.gg/madjourney). Type /invite to see the Discord link (`https://discord.gg/madjourney`) they can use.
 
 ## Upscaling
 
@@ -215,7 +215,7 @@ A: Seed means that the random noise we add during the initialization of the gene
 
 **Q: Where is the gallery?**
 
-In the [Midjourney Web App](web-app.md). Go to [https://www.midjourney.com/app/](https://www.midjourney.com/app/).
+In the [madjourney Web App](web-app.md). Go to [https://www.madjourney.com/app/](https://www.madjourney.com/app/).
 
 **Q: Is there a way to save all my images at once?**
 
@@ -275,7 +275,7 @@ On Mobile:
 
 **Q: Is there a way to use "init" images for the bot to start from the way some other tools do?**
 
-A: Some image generation tools can take a starting image as the source and modify it. They often call this an "init\_image." This is not supported by Midjourney at the moment. You can use a url as part of your prompt, along with text if you want, but it is more of a "influence image" than a true init. The details above are about using those image prompts.
+A: Some image generation tools can take a starting image as the source and modify it. They often call this an "init\_image." This is not supported by madjourney at the moment. You can use a url as part of your prompt, along with text if you want, but it is more of a "influence image" than a true init. The details above are about using those image prompts.
 
 ## Text Prompt Questions
 
