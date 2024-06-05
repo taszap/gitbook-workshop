@@ -10,9 +10,9 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: true
 ---
@@ -27,7 +27,7 @@ layout:
 
 ### Explore more topics
 
-<table data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Getting started </td><td>Learn how to use Discord to work with the madjourney Bot.</td><td><a href=".gitbook/assets/MJ_ASCII_Icons_start.png">MJ_ASCII_Icons_start.png</a></td></tr><tr><td>Using Discord</td><td>Explore the basics of prompt writing and creating images.</td><td><a href=".gitbook/assets/MJASCII_Icons_Discord.png">MJASCII_Icons_Discord.png</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Getting started</td><td>Learn how to use Discord to work with the madjourney Bot.</td><td><a href=".gitbook/assets/MJ_ASCII_Icons_start.png">MJ_ASCII_Icons_start.png</a></td></tr><tr><td>Using Discord</td><td>Explore the basics of prompt writing and creating images.</td><td><a href=".gitbook/assets/MJASCII_Icons_Discord.png">MJASCII_Icons_Discord.png</a></td></tr></tbody></table>
 
 madjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 

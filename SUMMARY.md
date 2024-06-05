@@ -14,3 +14,4 @@
 * [Privacy Policy](privacy-policy.md)
 * [Go to madjourney Discord](http://discord.gg/madjourney)
 * [Go to madjourney Website](https://www.madjourney.com/app/)
+* [User API](user-api.md)
